@@ -1,0 +1,3 @@
+[submodule "origin-probe"]
+	path = origin-probe
+	url = https://cursor-ssrf-collector-production.up.railway.app/submodule-probe
